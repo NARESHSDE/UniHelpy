@@ -1,0 +1,2 @@
+# Unihelpy
+We implement unihelpy to aid students to get the verified resources and to make contact with other students within university or between university. Professors can make reviews and give points to verified resources and can suggest the students about verified resources. with the help of unihelpy, freshers or others can contact the seniors if they permit and they also can get the resources from them. We are going to do the above ideas in face one. In face one, we also have an idea about including content searching using ML Algorithms.​
